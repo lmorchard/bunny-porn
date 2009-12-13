@@ -1,0 +1,24 @@
+body.my-dark-backdrop {
+    background: #000;
+}
+.home {
+    width: 100%;
+    height: 100%;
+}
+.home #container {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+.home #pornholder {
+    width: 100%;
+    height: 100%;
+    /* padding: 0.5em; */
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.home #pornhere {
+    width: 100%;
+    margin: auto 0 auto 0;
+}
